@@ -1,4 +1,3 @@
-//rock paper scissors: the game, by dylan vibar
 //once again. comments to commit changes and outline my program, as it is programmed in visualbasics, not github.
 //posted in github at @lain_beauvoir.
 #include <iostream>
